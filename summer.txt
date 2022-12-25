@@ -1,0 +1,5 @@
+Understand git jargon
+-Remote repository
+-Working repository
+-Local repository
+-Stage
