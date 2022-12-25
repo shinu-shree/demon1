@@ -1,0 +1,5 @@
+- git remote -v
+-git clone <repo-url>
+-git pull 
+-git fetch
+-git commit -am "msg"
