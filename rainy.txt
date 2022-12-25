@@ -1,0 +1,4 @@
+deleting a file 
+- git rm <fileman>
+-git git commit <filename> -m "msg"
+-git push
