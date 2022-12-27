@@ -1,0 +1,8 @@
+Understand git jargon
+-Remote repository
+-Working repository
+-Local repository
+-Stage
+ 
+adding content 
+local repository -> Remote repository = source code + Metadata
