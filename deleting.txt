@@ -1,3 +1,0 @@
-hi 
-this file made to perform deleting file command
-ok 
